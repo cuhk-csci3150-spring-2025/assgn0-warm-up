@@ -96,7 +96,7 @@ void testcase5(void)
 int main ( void )
 {
 
-  printf("\n\n**CSCI3150 Spring17 Assignment 1 Tester**\n");
+  printf("\n\n**CSCI3150 Spring25 Assignment 0 Tester**\n");
   printf("Mark per Suite: [%d]\n\n",PERMARK);
 
 	CU_pSuite pSuite = NULL;
