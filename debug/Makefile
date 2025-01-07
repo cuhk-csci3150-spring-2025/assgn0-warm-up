@@ -4,8 +4,8 @@
 # compliation. : )
 #############################################
 
-CC = 
-CFLAGS = 
+CC = gcc
+CFLAGS = -lm 
 TARGET = mycode
 
 all: mycode.c doMath.c doStr.c
